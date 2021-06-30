@@ -1,0 +1,131 @@
+
+.main-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 100px 200px 0px 200px;
+  background-color: #f0f2f5;
+  height: 715px;
+}
+
+.main-logo {
+  padding: 112px 0 16px 20px;
+  width: 380px;
+}
+
+.fb-logo {
+  height: 106px;
+  margin: -30px;
+}
+
+.slogan {
+  font-size: 25px;
+  padding-top: 25px;
+}
+
+.main-login {
+  height: 456px;
+  width: 396px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.secondary-login {
+  padding-top: 2px;
+  height: 350px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 5px #dadde1;
+}
+
+.box-1 {
+  margin: 15px 10px 10px 15px;
+  width: 364px;
+  height: 50px;
+}
+
+.box-2 {
+  padding-left: 15px;
+  border: 1px solid #dadde1;
+  border-radius: 6px;
+  font-size: 17px;
+  color: #c6c9cd;
+}
+
+.log-in {
+  background-color: #1877f2;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+}
+
+.fgpass {
+  text-decoration: none;
+  color: #1877f2;
+  margin: 10px 0 15px 0;
+}
+
+.line {
+  width: 364px;
+  border: 1px solid #dadde1;
+}
+
+.newaccount {
+  margin-top: 25px;
+  margin-left: 95px;
+  padding-top: 10px;
+  text-decoration: none;
+  color: white;
+  background-color: #42b72a;
+  height: 50px;
+  width: 200px;
+  font-size: 19px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.block {
+  display: block;
+}
+
+.create {
+  margin-top: 20px;
+}
+
+.create a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none; /* no bullet point */
+  display: flex;
+  justify-content: center;
+  margin-right: 25px;
+  color: grey;
+}
+
+li {
+  padding-left: 24px;
+}
+
+.line2 {
+  width: 1000px;
+  border: 1px solid #dadde1;
+}
+
+ol {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  width: 1200px;
+  margin-left: 400px;
+  color: grey;
+}
+
+.copyright {
+  margin-left: 465px;
+  color: grey;
+}
